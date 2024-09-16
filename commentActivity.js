@@ -3,7 +3,7 @@ Ahm:
 Alb:
 Ama:
 Cha:
-God:
+God: Anybody still using Streetpass?
 Gon:
 Hos:
 Ikh:
